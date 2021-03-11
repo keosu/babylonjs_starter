@@ -1,0 +1,29 @@
+{
+  "name": "babylonjs-puzzle-game",
+  "version": "1.0.0",
+  "description": "Implementation of the Rubik's Cube on BabylonJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./index.html --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "keywords": [],
+  "author": {
+    "name": " ",
+    "email": "a@a.com"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "babylonjs": "^4.0.3",
+    "babylonjs-gui": "^4.1.0"
+  }
+}
